@@ -1,0 +1,3 @@
+/Users/david/code/checkers/build/CMakeFiles/rebuild_cache.dir
+/Users/david/code/checkers/build/CMakeFiles/edit_cache.dir
+/Users/david/code/checkers/build/CMakeFiles/checkers.dir

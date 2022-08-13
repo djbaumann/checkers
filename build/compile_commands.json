@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/david/code/checkers/build",
+  "command": "/usr/bin/clang++   -I/Users/david/code/checkers/include  -std=c++11 -g -Wall -Wextra -pedantic -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2   -o CMakeFiles/checkers.dir/src/board.cpp.o -c /Users/david/code/checkers/src/board.cpp",
+  "file": "/Users/david/code/checkers/src/board.cpp"
+},
+{
+  "directory": "/Users/david/code/checkers/build",
+  "command": "/usr/bin/clang++   -I/Users/david/code/checkers/include  -std=c++11 -g -Wall -Wextra -pedantic -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2   -o CMakeFiles/checkers.dir/src/checkers.cpp.o -c /Users/david/code/checkers/src/checkers.cpp",
+  "file": "/Users/david/code/checkers/src/checkers.cpp"
+},
+{
+  "directory": "/Users/david/code/checkers/build",
+  "command": "/usr/bin/clang++   -I/Users/david/code/checkers/include  -std=c++11 -g -Wall -Wextra -pedantic -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2   -o CMakeFiles/checkers.dir/src/main.cpp.o -c /Users/david/code/checkers/src/main.cpp",
+  "file": "/Users/david/code/checkers/src/main.cpp"
+},
+{
+  "directory": "/Users/david/code/checkers/build",
+  "command": "/usr/bin/clang++   -I/Users/david/code/checkers/include  -std=c++11 -g -Wall -Wextra -pedantic -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2   -o CMakeFiles/checkers.dir/src/piece.cpp.o -c /Users/david/code/checkers/src/piece.cpp",
+  "file": "/Users/david/code/checkers/src/piece.cpp"
+},
+{
+  "directory": "/Users/david/code/checkers/build",
+  "command": "/usr/bin/clang++   -I/Users/david/code/checkers/include  -std=c++11 -g -Wall -Wextra -pedantic -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2   -o CMakeFiles/checkers.dir/src/square.cpp.o -c /Users/david/code/checkers/src/square.cpp",
+  "file": "/Users/david/code/checkers/src/square.cpp"
+}
+]
